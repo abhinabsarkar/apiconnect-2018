@@ -4,4 +4,6 @@
 
 [How to create User-defined policy?](user-defined-policy/readme.md)
 
-[Rest Management API]()
+# Rest Management API
+* [How to use Rest Management API?](rest-mgmt-apic/readme.md)
+* [Add LDAP based service account to a Space](rest-mgmt-apic/add-svx-acct-readme.md)
