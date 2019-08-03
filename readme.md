@@ -6,4 +6,4 @@
 
 # Rest Management API
 * [How to use Rest Management API?](rest-mgmt-apic/readme.md)
-* [Add LDAP based service account to a Space](rest-mgmt-apic/add-svx-acct-readme.md)
+* [Add LDAP based service account to a Space](rest-mgmt-apic/add-svc-acct-readme.md)
